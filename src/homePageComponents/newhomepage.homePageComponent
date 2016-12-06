@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<HomePageComponent xmlns="http://soap.sforce.com/2006/04/metadata">
+    <body>&amp;lt;?xml version=&amp;quot;1.0&amp;quot; encoding=&amp;quot;UTF-8&amp;quot;?&amp;gt;&lt;br&gt;&amp;lt;HomePageComponent xmlns=&amp;quot;http://soap.sforce.com/2006/04/metadata&amp;quot;&amp;gt;&lt;br&gt;  &amp;lt;height&amp;gt;200&amp;lt;/height&amp;gt;&lt;br&gt;  &amp;lt;page&amp;gt;test&amp;lt;/page&amp;gt;&lt;br&gt;  &amp;lt;pageComponentType&amp;gt;visualforcePage&amp;lt;/pageComponentType&amp;gt;&lt;br&gt;  &amp;lt;showLabel&amp;gt;true&amp;lt;/showLabel&amp;gt;&lt;br&gt;  &amp;lt;showScrollbars&amp;gt;true&amp;lt;/showScrollbars&amp;gt;&lt;br&gt;  &amp;lt;width&amp;gt;wideComponents&amp;lt;/width&amp;gt;&lt;br&gt;&amp;lt;/HomePageComponent&amp;gt;&lt;br&gt; </body>
+    <pageComponentType>htmlArea</pageComponentType>
+    <width>wide</width>
+</HomePageComponent>
