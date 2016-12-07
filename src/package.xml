@@ -9,8 +9,8 @@
         <name>Role</name>
     </types>
     <types>
-        <members>*</members>
-        <name>Profile</name>
+        <members>build</members>
+        <name>CustomSite</name>
     </types>
     <version>37.0</version>
 </Package>
