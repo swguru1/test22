@@ -9,10 +9,7 @@
         <name>Role</name>
     </types>
     <types>
-        <members>Case.newcase</members>
-        <members>Lead.lead2</members>
-        <members>Lead.leadnew</members>
-        <members>Lead.newrule</members>
+        <members>*</members>
         <name>AssignmentRule</name>
     </types>
     <types>
