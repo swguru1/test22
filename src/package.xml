@@ -12,5 +12,9 @@
         <members>build</members>
         <name>CustomSite</name>
     </types>
+    <types>
+        <members>build1</members>
+        <name>SiteDotCom</name>
+    </types>
     <version>37.0</version>
 </Package>
