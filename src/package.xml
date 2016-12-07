@@ -16,5 +16,9 @@
         <members>build1</members>
         <name>SiteDotCom</name>
     </types>
+    <types>
+        <members>build</members>
+        <name>Network</name>
+    </types>
     <version>37.0</version>
 </Package>
