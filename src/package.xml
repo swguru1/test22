@@ -12,13 +12,21 @@
         <members>*</members>
         <name>CustomSite</name>
     </types>
-    <types>
+  <!--   <types>
         <members>*</members>
         <name>Queue</name>
-    </types>
+    </types> -->
     <types>
         <members>*</members>
         <name>Network</name>
+    </types>
+    <types>
+        <members>Account</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
+        <members>*</members>
+        <name>AssignmentRule</name>
     </types>
     <version>37.0</version>
 </Package>
