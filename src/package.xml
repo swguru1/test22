@@ -15,5 +15,9 @@
         <members>Lead.newrule</members>
         <name>AssignmentRule</name>
     </types>
+    <types>
+        <members>*</members>
+        <name>Queue</name>
+    </types>
     <version>37.0</version>
 </Package>
