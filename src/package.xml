@@ -12,11 +12,13 @@
         <members>*</members>
         <name>CustomSite</name>
     </types>
-   
-    
     <types>
         <members>*</members>
         <name>Queue</name>
+    </types>
+    <types>
+        <members>*</members>
+        <name>Network</name>
     </types>
     <version>37.0</version>
 </Package>

@@ -14,12 +14,12 @@
     <inMaintenancePage>CommunitiesLogin</inMaintenancePage>
     <inactiveIndexPage>CommunitiesLogin</inactiveIndexPage>
     <indexPage>CommunitiesLanding</indexPage>
-    <masterLabel>build</masterLabel>
+    <masterLabel>sjm</masterLabel>
     <requireHttps>true</requireHttps>
     <requireInsecurePortalAccess>false</requireInsecurePortalAccess>
     <selfRegPage>CommunitiesSelfReg</selfRegPage>
     <siteAdmin>swguru@sales.com</siteAdmin>
     <siteType>ChatterNetwork</siteType>
     <subdomain>mydemocommunitys-developer-edition</subdomain>
-    <urlPathPrefix>build</urlPathPrefix>
+    <urlPathPrefix>sjm</urlPathPrefix>
 </CustomSite>
