@@ -4,5 +4,14 @@
         <members>*</members>
         <name>HomePageComponent</name>
     </types>
+    <types>
+        <members>*</members>
+        <name>Role</name>
+    </types>
+    <types>
+        <members>DemoFolder</members>
+        <members>DemoFolder/DemoReport</members>
+        <name>Report</name>
+    </types>
     <version>37.0</version>
 </Package>
