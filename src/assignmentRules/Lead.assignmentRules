@@ -1,8 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <AssignmentRules xmlns="http://soap.sforce.com/2006/04/metadata">
     <assignmentRule>
-        <fullName>newrule</fullName>
+        <fullName>lead2</fullName>
+        <active>false</active>
+        <ruleEntry>
+            <assignedTo>queue2</assignedTo>
+            <assignedToType>Queue</assignedToType>
+            <criteriaItems>
+                <field>Lead.City</field>
+                <operation>equals</operation>
+                <value>mumbai</value>
+            </criteriaItems>
+        </ruleEntry>
+    </assignmentRule>
+    <assignmentRule>
+        <fullName>leadnew</fullName>
         <active>true</active>
+        <ruleEntry>
+            <assignedTo>queue2</assignedTo>
+            <assignedToType>Queue</assignedToType>
+            <criteriaItems>
+                <field>Lead.AnnualRevenue</field>
+                <operation>equals</operation>
+                <value>3000000</value>
+            </criteriaItems>
+            <template>unfiled$public/Temp_c</template>
+        </ruleEntry>
+    </assignmentRule>
+    <assignmentRule>
+        <fullName>newrule</fullName>
+        <active>false</active>
         <ruleEntry>
             <assignedTo>queue1</assignedTo>
             <assignedToType>Queue</assignedToType>

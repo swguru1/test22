@@ -6,11 +6,14 @@
     </types>
     <types>
         <members>*</members>
-        <name>AssignmentRule</name>
+        <name>Role</name>
     </types>
     <types>
-        <members>*</members>
-        <name>Role</name>
+        <members>Case.newcase</members>
+        <members>Lead.lead2</members>
+        <members>Lead.leadnew</members>
+        <members>Lead.newrule</members>
+        <name>AssignmentRule</name>
     </types>
     <version>37.0</version>
 </Package>
