@@ -20,10 +20,10 @@
         <members>*</members>
         <name>Network</name>
     </types>
-    <types>
+    <!-- <types>
         <members>Account</members>
         <name>CustomObject</name>
-    </types>
+    </types> -->
     <types>
         <members>*</members>
         <name>AssignmentRule</name>
