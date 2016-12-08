@@ -4,5 +4,18 @@
         <members>Account</members>
         <name>CustomObject</name>
     </types>
+     <types>
+        
+        <members>*</members>
+        <name>CustomField</name>
+    </types>
+    <types>
+        <members>*</members>
+        <name>PermissionSet</name>
+    </types>
+    <types>
+        <members>*</members>
+        <name>AssignmentRule</name>
+    </types>
     <version>37.0</version>
 </Package>
