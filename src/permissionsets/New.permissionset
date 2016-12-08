@@ -25,31 +25,31 @@
         <field>Account.BillingAddress</field>
         <readable>false</readable>
     </fieldPermissions>
-    <fieldPermissions>
+    <!-- <fieldPermissions>
         <editable>false</editable>
         <field>Account.CleanStatus</field>
         <readable>false</readable>
-    </fieldPermissions>
+    </fieldPermissions> -->
     <fieldPermissions>
         <editable>false</editable>
         <field>Account.CustomerPriority__c</field>
         <readable>false</readable>
     </fieldPermissions>
-    <fieldPermissions>
+    <!-- <fieldPermissions>
         <editable>false</editable>
         <field>Account.DandbCompanyId</field>
         <readable>false</readable>
-    </fieldPermissions>
+    </fieldPermissions> -->
     <fieldPermissions>
         <editable>false</editable>
         <field>Account.Description</field>
         <readable>false</readable>
     </fieldPermissions>
-    <fieldPermissions>
+    <!-- <fieldPermissions>
         <editable>false</editable>
         <field>Account.DunsNumber</field>
         <readable>false</readable>
-    </fieldPermissions>
+    </fieldPermissions> -->
     <fieldPermissions>
         <editable>false</editable>
         <field>Account.Fax</field>
@@ -65,7 +65,7 @@
         <field>Account.Jigsaw</field>
         <readable>false</readable>
     </fieldPermissions>
-    <fieldPermissions>
+   <!--  <fieldPermissions>
         <editable>false</editable>
         <field>Account.NaicsCode</field>
         <readable>false</readable>
@@ -74,7 +74,7 @@
         <editable>false</editable>
         <field>Account.NaicsDesc</field>
         <readable>false</readable>
-    </fieldPermissions>
+    </fieldPermissions> -->
     <fieldPermissions>
         <editable>false</editable>
         <field>Account.NumberOfEmployees</field>
@@ -145,11 +145,11 @@
         <field>Account.TickerSymbol</field>
         <readable>false</readable>
     </fieldPermissions>
-    <fieldPermissions>
+    <!-- <fieldPermissions>
         <editable>false</editable>
         <field>Account.Tradestyle</field>
         <readable>false</readable>
-    </fieldPermissions>
+    </fieldPermissions> -->
     <fieldPermissions>
         <editable>false</editable>
         <field>Account.Type</field>
@@ -165,11 +165,11 @@
         <field>Account.Website</field>
         <readable>false</readable>
     </fieldPermissions>
-    <fieldPermissions>
+   <!--  <fieldPermissions>
         <editable>false</editable>
         <field>Account.YearStarted</field>
         <readable>false</readable>
-    </fieldPermissions>
+    </fieldPermissions> -->
     <fieldPermissions>
         <editable>false</editable>
         <field>Case.AccountId</field>
