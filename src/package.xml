@@ -18,11 +18,11 @@
     </types>
     <types>
         <members>*</members>
-        <name>PermissionSet</name>
+        <name>CustomLabels</name>
     </types>
     <types>
-        <members>*</members>
-        <name>CustomLabels</name>
+        <members>New</members>
+        <name>PermissionSet</name>
     </types>
     <version>37.0</version>
 </Package>
