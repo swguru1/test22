@@ -10,6 +10,7 @@
     </types>
     <types>
         <members>Case</members>
+        <members>Account</members>
         <name>CustomObject</name>
     </types>
     <types>
