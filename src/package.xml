@@ -76,7 +76,6 @@
         <members>*</members>
         <name>CustomLabels</name>
     </types>
-    
     <types>
         <members>*</members>
         <name>Profile</name>
@@ -88,6 +87,10 @@
     <types>
         <members>*</members>
         <name>Group</name>
+    </types>
+    <types>
+        <members>*</members>
+        <name>CustomSite</name>
     </types>
     <version>37.0</version>
 </Package>
