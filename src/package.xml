@@ -1,20 +1,28 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <types>
-        <members>*</members>
-        <name>HomePageComponent</name>
+        <members>Case-es</members>
+        <name>CustomObjectTranslation</name>
     </types>
     <types>
         <members>*</members>
-        <name>Role</name>
+        <name>Translations</name>
+    </types>
+    <types>
+        <members>Case</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
+        <members>test</members>
+        <name>ApexPage</name>
     </types>
     <types>
         <members>*</members>
-        <name>AssignmentRule</name>
+        <name>PermissionSet</name>
     </types>
     <types>
         <members>*</members>
-        <name>Queue</name>
+        <name>CustomLabels</name>
     </types>
     <version>37.0</version>
 </Package>
