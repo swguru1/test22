@@ -24,6 +24,11 @@
     <types>
         <members>New</members>
         <name>PermissionSet</name>
+    </types> <types>
+        <members>*</members>
+        
+        <name>CustomField</name>
     </types>
+    
     <version>37.0</version>
 </Package>
