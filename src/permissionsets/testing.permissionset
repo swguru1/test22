@@ -181,22 +181,6 @@
         <readable>false</readable>
     </fieldPermissions>
     <hasActivationRequired>false</hasActivationRequired>
-    <label>New</label>
-    <objectPermissions>
-        <allowCreate>false</allowCreate>
-        <allowDelete>true</allowDelete>
-        <allowEdit>true</allowEdit>
-        <allowRead>true</allowRead>
-        <modifyAllRecords>false</modifyAllRecords>
-        <object>TestObject__c</object>
-        <viewAllRecords>false</viewAllRecords>
-    </objectPermissions>
-    <userPermissions>
-        <enabled>true</enabled>
-        <name>AccessCMC</name>
-    </userPermissions>
-    <userPermissions>
-        <enabled>true</enabled>
-        <name>ChatterForSharePoint</name>
-    </userPermissions>
+    <label>testing</label>
+    <userLicense>Salesforce</userLicense>
 </PermissionSet>
