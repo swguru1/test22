@@ -50,7 +50,7 @@
         <members>Task</members>
         <members>User</members>
         <members>UserProvisioningRequest</members>
-        <members>*</members>
+       
         <name>CustomObject</name>
     </types>
     <types>
