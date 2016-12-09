@@ -62,10 +62,11 @@
         <members>*</members>
         <name>ApexPage</name>
     </types>
-    <types>
+     <types>
         <members>*</members>
-        <name>CustomObject</name>
+        <name>Document</name>
     </types>
+
     <types>
         <members>*</members>
         <name>ApexPage</name>
