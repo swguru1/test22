@@ -13,9 +13,9 @@
         <members>*</members>
         <name>CustomTab</name>
     </types>
-    <types>
+  <types>
         <members>*</members>
-        <name>CustomApplication</name>
+        <name>CustomLabels</name>
     </types>
     
     <types>
