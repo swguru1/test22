@@ -5,7 +5,7 @@
         <name>CustomTab</name>
     </types>
     <types>
-        <members>Account</members>
+        
         <members>AccountContactRole</members>
         <members>Activity</members>
         <members>Asset</members>
@@ -25,8 +25,7 @@
         <members>ExchangeUserMapping</members>
         <members>FeedItem</members>
         <members>ForecastingCategoryMapping</members>
-        <members>Idea</members>
-        <members>Lead</members>
+        
         <members>Macro</members>
         <members>MacroAction</members>
         <members>MacroInstruction</members>
