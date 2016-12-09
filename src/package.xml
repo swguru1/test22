@@ -4,6 +4,11 @@
         <members>*</members>
         <name>CustomTab</name>
     </types>
+     <types>
+        <members>*</members>
+        <name>CustomApplicationComponent</name>
+    </types>
+
     <types>
         
         <members>AccountContactRole</members>
