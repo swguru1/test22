@@ -5,7 +5,4 @@
     <queueSobject>
         <sobjectType>Lead</sobjectType>
     </queueSobject>
-    <queueSobject>
-        <sobjectType>pro1__c</sobjectType>
-    </queueSobject>
 </Queue>
