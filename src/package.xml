@@ -2,33 +2,16 @@
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <types>
         <members>*</members>
-        <name>ApexPage</name>
+        <name>CustomPermission</name>
+    </types>
+    <types>
+        <members>myfolder</members>
+        <members>myfolder/Logo.png</members>
+        <name>Document</name>
     </types>
     <types>
         <members>*</members>
-        <name>Letterhead</name>
-    </types>
-    <types>
-        <members>*</members>
-        <name>ApexTrigger</name>
-    </types>
-        <types>
-        <members>*</members>
-        <name>CustomApplication</name>
-    </types>
- 
-    <types>
-        <members>*</members>
-        <name>CustomTab</name>
-    </types>
-  <types>
-        <members>*</members>
-        <name>CustomLabels</name>
-    </types>
-    
-    <types>
-        <members>*</members>
-        <name>AppMenu</name>
+        <name>CustomApplicationComponent</name>
     </types>
     <version>37.0</version>
 </Package>
