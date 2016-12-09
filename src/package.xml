@@ -8,7 +8,7 @@
         
         <members>AccountContactRole</members>
         <members>Activity</members>
-        <members>Asset</members>
+        
         <members>AssistantProgress</members>
         <members>Campaign</members>
         <members>CampaignMember</members>
