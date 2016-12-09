@@ -13,5 +13,25 @@
         <members>*</members>
         <name>CustomApplicationComponent</name>
     </types>
+    <types>
+        <members>*</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
+        <members>*</members>
+        <name>ApexPage</name>
+    </types>
+    <types>
+        <members>*</members>
+        <name>ApexTrigger</name>
+    </types>
+    <types>
+        <members>*</members>
+        <name>CustomLabels</name>
+    </types>
+    <types>
+        <members>*</members>
+        <name>HomePageComponent</name>
+    </types>
     <version>37.0</version>
 </Package>
