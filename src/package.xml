@@ -4,16 +4,13 @@
         <members>*</members>
         <name>CustomTab</name>
     </types>
-     <types>
+    <types>
         <members>*</members>
         <name>CustomApplicationComponent</name>
     </types>
-
     <types>
-        
         <members>AccountContactRole</members>
         <members>Activity</members>
-        
         <members>AssistantProgress</members>
         <members>Campaign</members>
         <members>CampaignMember</members>
@@ -30,7 +27,6 @@
         <members>ExchangeUserMapping</members>
         <members>FeedItem</members>
         <members>ForecastingCategoryMapping</members>
-        
         <members>Macro</members>
         <members>MacroAction</members>
         <members>MacroInstruction</members>
@@ -38,35 +34,29 @@
         <members>OpportunityCompetitor</members>
         <members>OpportunityContactRole</members>
         <members>OpportunityLineItem</members>
-        
         <members>Order</members>
         <members>OrderItem</members>
         <members>PartnerRole</members>
         <members>Pricebook2</members>
         <members>PricebookEntry</members>
         <members>Product2</members>
-        
-        
         <members>Site</members>
         <members>SocialPersona</members>
-        
         <members>Solution</members>
         <members>StreamingChannel</members>
         <members>Task</members>
         <members>User</members>
         <members>UserProvisioningRequest</members>
-       
         <name>CustomObject</name>
     </types>
     <types>
         <members>*</members>
         <name>ApexPage</name>
     </types>
-     <types>
+    <types>
         <members>*</members>
         <name>Document</name>
     </types>
-
     <types>
         <members>*</members>
         <name>ApexPage</name>
@@ -88,9 +78,12 @@
         <name>Portal</name>
     </types>
     <types>
-      <members>*</members>
-      <name>CustomPermission</name>
-   </types>
-
+        <members>*</members>
+        <name>CustomPermission</name>
+    </types>
+    <types>
+        <members>*</members>
+        <name>QuickAction</name>
+    </types>
     <version>37.0</version>
 </Package>
