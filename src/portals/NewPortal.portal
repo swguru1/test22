@@ -2,7 +2,7 @@
 <Portal xmlns="http://soap.sforce.com/2006/04/metadata">
     <active>true</active>
     <description>NewPortal</description>
-    <emailSenderAddress>abhik.dey01@salesforce.com</emailSenderAddress>
+    <emailSenderAddress>abhik.dey01@gmail.com</emailSenderAddress>
     <emailSenderName>swguru@sales.com</emailSenderName>
     <enableSelfCloseCase>false</enableSelfCloseCase>
     <forgotPassTemplate>unfiled$public/CustomerPortalChangePwdEmail</forgotPassTemplate>

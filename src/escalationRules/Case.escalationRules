@@ -21,12 +21,12 @@
                 <value>High</value>
             </criteriaItems>
             <escalationAction>
-                <assignedTo>swguru@sales.com</assignedTo>
+                <assignedTo>Abhik.dey01@salesforce.com</assignedTo>
                 <assignedToTemplate>unfiled$public/SupportEscalatedCaseReassignment</assignedToTemplate>
                 <assignedToType>User</assignedToType>
                 <minutesToEscalation>120</minutesToEscalation>
                 <notifyCaseOwner>false</notifyCaseOwner>
-                <notifyTo>swguru@sales.com</notifyTo>
+                <notifyTo>Abhik.dey01@salesforce.com</notifyTo>
                 <notifyToTemplate>unfiled$public/SupportEscalatedCaseNotification</notifyToTemplate>
             </escalationAction>
             <escalationStartTime>CaseCreation</escalationStartTime>
