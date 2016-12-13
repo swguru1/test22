@@ -7,6 +7,6 @@
         <userField>Account</userField>
     </accessMappings>
     <name>set1</name>
-    <profiles>external identity user</profiles>
+    
     <profiles>platformportal</profiles>
 </SharingSet>
